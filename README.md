@@ -3,8 +3,8 @@
 ### Hi I'm SeongEun 👋
 
 <p>
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/>
-<a href="https://portfolio-hd4tiq038-seonggg.vercel.app/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MyGmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/>
+<a href="https://portfolio-hd4tiq038-seonggg.vercel.app/"><img src="https://img.shields.io/badge/MyProtfolio-000000?style=flat-square&logo=Vercel&logoColor=white"/></a>
 </p>
 
 ### Skills 🛠
